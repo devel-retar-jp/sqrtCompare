@@ -7,3 +7,6 @@
 - Windows 10 Pro
 - Visual Studio 2019
 - C++
+<p>  
+2021/09/01 デジタル庁おめでとう記念！<br>
+
